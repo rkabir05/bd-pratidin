@@ -59,4 +59,175 @@
     max-width: 100%;
 }
 
+.lead-news-box {
+    display: flow;
+}
+
+.secend-lead-img {
+    width: 48%;
+}
+
+.secend-lead-text {
+    width: 48%;
+}
+
+.secend-lead {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.secend-main-part-b,
+.secend-main-part-c,
+.secend-main-part-a {
+    width: 100%;
+}
+
+.secend-box {
+    width: 100%;
+}
+
+
+.secend-box-part-3,
+.secend-box-part-2,
+.secend-box-part-1 {
+    width: 100%;
+}
+
+.secend-box {
+    display: block;
+    padding: 20px;
+}
+
+.secend-main-part-a,
+.secend-box-part-a {
+    margin: 25px 0;
+}
+
+.secend-main-part-d {
+    width: 100%;
+    text-align: center;
+}
+
+.usa-main {
+    width: 100%;
+}
+
+.usa-main-part-a {
+    width: 100%;
+}
+
+.usa-main-part-b {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+
+.usa-main-part {
+    width: 100%;
+    padding: 20px;
+    display: block;
+
+}
+
+.usa-main-part-b-2,
+.usa-main-part-b-1 {
+    width: 49%;
+}
+.usa-main-part-b-2 {
+    margin-top: 0;
+}
+
+.usa-main-part-c {
+    width: 100%;
+}
+
+.highlight-main {
+    width: 100%;
+}
+
+.highlight-main-news {
+    width: 100%;
+    padding: 20px;
+}
+
+.newspaper {
+    width: 100%;
+    padding: 20px;
+    display: block;
+}
+
+.newspaper-main-part {
+    width: 100%;
+    display: block;
+}
+
+.newspaper-part-last-news {
+    width: 100%;
+}
+
+.newspaper-main-last-newsandimage {
+    align-items: center;
+}
+
+.footer-logo-editor-name {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.footer-logo {
+    width: 50%;
+    margin: auto;
+}
+
+.editor-name {
+    width: 50%;
+    margin: auto;
+}
+
+.footer-main-box {
+    width: 100%;
+    display: block;
+}
+
+.footer-main-1a {
+    width: 100%;
+    text-align: justify;
+}
+
+.footer-main-2 {
+    width: 100%;
+    text-align: center;
+}
+
+.bd-app h3 {
+    text-align: center;
+}
+
+.footer-background {
+    width: auto;
+    height: 458px;
+    background: #787171;
+    margin-bottom: 20px;
+}
+
+.bd-social-media {
+    justify-content: center;
+}
+
+
+a {}
+
+.footer-down>nav>ul {
+    justify-content: center;
+}
+
+.footer-down {
+    width: 100%;
+}
+
 }

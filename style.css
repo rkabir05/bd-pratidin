@@ -484,12 +484,13 @@ ul.sub-menu li {
 }
 
 .highlight-main {
-    width: 1800px;
+    width: 1400px;
     margin: auto;
     background-image: url("images/section-bg.png");
     background-repeat: no-repeat;
     margin-bottom: 50px;
     height: auto;
+    text-align: center;
 }
 
 
